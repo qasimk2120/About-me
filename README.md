@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dsouloverwhelmed
-- 👀 I’m interested in Web development and QA 
-- 🌱 I’m currently learning programming languages and QA testing processes
-- 💞️ I’m looking to collaborate on QA and Programming jobs
+- 👋 Hi, I’m Muhammad Qasim Khan
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning programming languages 
 - 📫 How to reach me 
 -email     -> qk32002freelancer@gmail.com
 -facebook  -> https://www.facebook.com/qasimk17/
