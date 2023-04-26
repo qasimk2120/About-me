@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Qasim Khan
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning programming languages 
+- 👀 I’m interested in Software mainly full stack web development
+- 🌱 Currently Enrolled in Meta Front End Developer Specilization
 - 📫 How to reach me 
 -email     -> qk32002freelancer@gmail.com
 -facebook  -> https://www.facebook.com/qasimk17/
