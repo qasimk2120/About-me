@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Muhammad Qasim Khan
-- 👀 I’m interested in Software mainly full stack web development
-- 🌱 Currently Enrolled in Meta Front End Developer Specilization
+- 👀 I’m interested in Software mainly full stack web development and Data Science 
+- 🌱 Currently Learning Mean Stack Development and plan to learn Java, Spring Boot and SQL in thr current year
 - 📫 How to reach me 
--email     -> qk32002freelancer@gmail.com
+-email     -> qk71086@gmail.com 
 -facebook  -> https://www.facebook.com/qasimk17/
--Instagram -> https://www.instagram.com/qasimkhan__20/
 -Twitter   ->  @qas__imkhan
 -Linkedin  ->www.linkedin.com/in/qasim-khan-57b77b1b4
 
