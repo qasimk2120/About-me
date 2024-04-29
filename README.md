@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Qasim Khan
 - 👀 I’m interested in Software mainly full stack web development and Data Science 
 - 🌱 Currently Learning Mean Stack Development and plan to learn Java, Spring Boot and SQL in thr current year
-Developing Full stack Web Application, Currently my First Project too - > Edit Masters 
+Developing Full stack Web Application, Currently workijng on my First Project too - > Edit Masters  
 - 📫 How to reach me 
 -email     -> qk71086@gmail.com 
 -facebook  -> https://www.facebook.com/qasimk17/
