@@ -1,21 +1,112 @@
-As the CEO/CTO and Founder of CogniElevate, I am leading the development of CogniFleet, a transport-focused ERP designed to streamline trucking business operations. My primary focus is on building scalable, robust, and efficient software solutions that cater to the unique needs of small to medium scale transport companies or Businesses.
+<!-- ===================== -->
+<!--  Minimal Dark Profile -->
+<!-- ===================== -->
 
-Key Responsibilities:
-🚀 Architecting & Developing CogniFleet – Designing and implementing the core platform to enhance fleet tracking, financial management, and operational efficiency.
-📈 Strategic Vision & Growth – Driving CogniElevate’s expansion, starting with CogniFleet and preparing for future AI-driven enhancements.
-🔧 Technical Leadership – Overseeing the full-stack development, cloud deployment, and database management of CogniFleet to ensure optimal performance.
-🤖 AI-Driven Future – Laying the groundwork for AI-powered analytics and automation to optimize decision-making within transport ERP solutions.
+<h1 align="center">Hi, I’m Qasim Khan 👋</h1>
 
-Background & Expertise:
-Before founding CogniElevate, I spent 4 years in IT, transitioning from Software QA to Full Stack Development, specializing in the MEAN stack (MongoDB, Express.js, Angular, Node.js). My QA experience (50+ applications tested across web, mobile, and desktop) gave me a deep understanding of software performance, security, and user experience—skills I seamlessly apply to development.
+<p align="center">
+  <strong>Software Engineer → AI / NLP / Robotics Practitioner</strong><br/>
+  Learning-first systems • Engineering rigor • Applied AI
+</p>
 
-Tech Stack & Skills:
-🖥 Frontend: Angular, Angular Material, PrimeNG, HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, D3.js
-⚙️ Backend: Node.js, Express.js
-🗄 Databases: SQL (preferred), MongoDB, Mongoose, Prisma, Sequelize
-☁️ Cloud & Deployment: AWS S3, Google Cloud
-🔄 Version Control, Collaboration, Project Managment: Git, Trello, Jira
-🔗 APIs & Data: REST APIs, JSON, XML
+<p align="center">
+  <a href="https://github.com/qasimk2120">
+    <img src="https://komarev.com/ghpvc/?username=qasimk2120&color=0d1117&style=flat-square" />
+  </a>
+</p>
 
-Vision Beyond CogniFleet
-CogniElevate is positioned for future expansion into AI-driven solutions, with plans to scale beyond transport ERP. I have a strong interest in HealthTech, leveraging AI and automation to create impactful solutions worldwide.
+---
+
+## 🧠 About Me
+
+I’m a **software engineer with a strong full-stack background**, currently deepening my expertise in  
+**Artificial Intelligence, Natural Language Processing, and Robotics** through hands-on experimentation and applied learning.
+
+I’ve built and maintained **real-world systems** — from backend services and databases to ERP-style applications — which strongly shapes how I approach AI:
+
+- I focus on **fundamentals, trade-offs, and system behavior**
+- I avoid treating models as **black boxes**
+- I value **clarity, correctness, and understanding** over hype
+
+> I prefer understanding *why* something works before optimizing *how* it works.
+
+---
+
+## 🔬 Current Focus
+
+### 🧩 Natural Language Processing
+- Text preprocessing & representation  
+- POS tagging & Named Entity Recognition  
+- Sentiment analysis (rule-based, classical ML, transformers)  
+- Topic modeling (LDA, LSA)  
+- Custom text classifiers on real datasets  
+
+### 🤖 AI & Robotics Foundations
+- Computer vision fundamentals  
+- Robotics software concepts (ROS-ready learning path)  
+- AI engineering practices bridging theory → systems  
+
+### 🛠 Engineering Mindset
+- Clean data pipelines  
+- Reproducible experiments  
+- Learning notebooks → project-grade implementations  
+
+---
+
+## 📂 Featured Work
+
+📌 **AI & Robotics Portfolio**  
+A structured, learning-first repository documenting my journey across NLP, ML, and robotics.
+
+> Focused on **conceptual depth and trade-offs**, not demo-only projects.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+`Python` · `JavaScript` · `SQL`
+
+**AI / NLP**  
+`spaCy` · `NLTK` · `scikit-learn` · `Transformers` · `TextBlob` · `VADER`
+
+**Data & ML**  
+`pandas` · `NumPy` · `matplotlib`
+
+**Engineering**  
+`Node.js` · `Express` · `Angular` · `PostgreSQL` · `REST APIs`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=qasimk2120&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Philosophy
+
+- Engineering first, models second  
+- Depth over buzzwords  
+- Learning > shortcuts  
+- Systems thinking applied to AI  
+
+---
+
+## 📫 Connect
+
+- GitHub: **[@qasimk2120](https://github.com/qasimk2120)**  
+- Portfolio: see pinned repositories  
+
+---
+
+<p align="center">
+  <em>Building AI systems that are understandable, reliable, and useful.</em>
+</p>
