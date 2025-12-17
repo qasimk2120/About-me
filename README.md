@@ -9,12 +9,6 @@
   Learning-first systems • Engineering rigor • Applied AI
 </p>
 
-<p align="center">
-  <a href="https://github.com/qasimk2120">
-    <img src="https://komarev.com/ghpvc/?username=qasimk2120&color=0d1117&style=flat-square" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
