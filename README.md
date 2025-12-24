@@ -1,116 +1,71 @@
-<!-- ===================== -->
-<!--  Minimal Dark Profile -->
-<!-- ===================== -->
+# Hi, I’m Qasim Khan 👋
 
-<h1 align="center">Hi, I’m Qasim Khan 👋</h1>
-
-<p align="center">
-  <strong>Software Engineer → AI / NLP / Robotics</strong><br/>
-  Engineering-first mindset • Applied AI • Systems thinking
+<p align="left">
+  <strong>Software Engineer | AI • NLP • Robotics</strong><br/>
+  <i>Focusing on engineering-first AI and high-integrity systems.</i>
 </p>
 
----
+&nbsp;
 
 ## 🧠 About Me
 
-I’m a **software engineer with strong full-stack experience**, currently specializing in  
-**Artificial Intelligence, Natural Language Processing, and Robotics** through applied, hands-on work.
+I am a **Systems-Oriented Software Engineer** bridging the gap between traditional full-stack engineering and Applied AI. I don't just "prompt" models; I build the pipelines, constraints, and architectures that make them reliable.
 
-My background in building **production systems** (APIs, databases, ERP-style applications) strongly influences how I approach AI:
-
-- Focus on fundamentals, constraints, and system behavior  
-- Avoid treating models as black boxes  
-- Prioritize correctness and understanding over hype  
-
-> I prefer understanding *why* something works before optimizing *how* it works.
+- 🛠 **Background:** Extensive experience in production-grade APIs, ERP systems, and SQL databases.
+- 🔬 **Current Mission:** Specializing in NLP and Robotics through a first-principles approach.
+- ⚖️ **Philosophy:** Understanding *why* > Optimizing *how*.
 
 ---
 
-## 🔬 Current Focus
+## 🔬 Expertise & Focus
 
 ### 🧩 Natural Language Processing
-- Text preprocessing & representation  
-- POS tagging & Named Entity Recognition  
-- Sentiment analysis (rule-based, classical ML, transformers)  
-- Topic modeling (LDA, LSA)  
-- Custom text classifiers on real datasets  
+* **Pipeline Design:** Preprocessing, POS tagging, and custom NER.
+* **Modeling:** Moving from rule-based (VADER) to Transformers (HuggingFace).
+* **Analysis:** Deep dives into Topic Modeling (LDA) and Sentiment Analysis.
 
-### 🤖 AI & Robotics Foundations
-- Computer vision fundamentals  
-- Robotics software concepts (ROS-oriented learning path)  
-- Bridging theory → deployable systems  
-
-### 🛠 Engineering Practices
-- Clean, testable data pipelines  
-- Reproducible experiments  
-- Notebooks → maintainable project code  
-
----
-
-## 📂 Featured Work
-
-📌 **AI & Robotics Portfolio**  
-A structured portfolio documenting my progression across NLP, ML, and robotics.
-
-- Conceptual depth and trade-offs  
-- Clear explanations alongside implementations  
-- Fewer demos, more understanding  
+### 🤖 AI & Robotics
+* **Vision:** Fundamentals of Computer Vision & Image Processing.
+* **Systems:** Learning the ROS ecosystem for deployable robotics software.
+* **Reliability:** Engineering reproducible experiments and testable data pipelines.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**  
-`Python` · `JavaScript` · `SQL`
-
-**AI / NLP**  
-`spaCy` · `NLTK` · `scikit-learn` · `Transformers` · `TextBlob` · `VADER`
-
-**Data & ML**  
-`pandas` · `NumPy` · `matplotlib`
-
-**Engineering**  
-`Node.js` · `Express` · `Angular` · `PostgreSQL` · `REST APIs`
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / NLP** | `spaCy` • `NLTK` • `scikit-learn` • `Transformers` • `HuggingFace` |
+| **Data Science** | `Pandas` • `NumPy` • `Matplotlib` • `Jupyter` |
+| **Backend** | `Python` • `Node.js` • `Express` • `PostgreSQL` • `REST APIs` |
+| **Frontend** | `JavaScript` • `Angular` • `TypeScript` |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=dark&count_private=true" alt="Qasim's Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=dark" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=qasimk2120&theme=github-dark&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=qasimk2120&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🎯 Engineering Philosophy
 
-- Engineering first, models second  
-- Depth over buzzwords  
-- Understanding before optimization  
-- Systems thinking applied to AI  
+> **"Engineering first, models second."** > I treat AI as a component within a larger system. I prioritize clean, maintainable project code over messy notebooks, ensuring that AI solutions are actually deployable.
 
 ---
 
 ## 📫 Connect
 
-- GitHub: **[@qasimk2120](https://github.com/qasimk2120)**  
-- Portfolio: see pinned repositories  
+- **GitHub:** [@qasimk2120](https://github.com/qasimk2120)
+- **Portfolio:** Check my pinned repositories for deep-dives into NLP and Robotics.
 
----
-
-<p align="center">
+<p align="right">
   <em>Building AI systems that are understandable, reliable, and useful.</em>
 </p>
