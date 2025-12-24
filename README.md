@@ -16,11 +16,11 @@
 I’m a **software engineer with strong full-stack experience**, currently specializing in  
 **Artificial Intelligence, Natural Language Processing, and Robotics** through applied, hands-on work.
 
-My background in building **production systems** (APIs, databases, ERP-style applications) strongly influences how I approach AI:
+My background in building **production systems** (APIs, databases, ERP-style applications) strongly shapes how I approach AI:
 
-- Focus on fundamentals, constraints, and system behavior  
-- Avoid treating models as black boxes  
-- Prioritize correctness and understanding over hype  
+- Focus on **fundamentals, constraints, and system behavior**
+- Avoid treating models as **black boxes**
+- Prioritize **clarity and correctness** over hype
 
 > I prefer understanding *why* something works before optimizing *how* it works.
 
@@ -38,12 +38,12 @@ My background in building **production systems** (APIs, databases, ERP-style app
 ### 🤖 AI & Robotics Foundations
 - Computer vision fundamentals  
 - Robotics software concepts (ROS-oriented learning path)  
-- Bridging theory → deployable systems  
+- Bridging AI theory → deployable systems  
 
 ### 🛠 Engineering Practices
 - Clean, testable data pipelines  
 - Reproducible experiments  
-- Notebooks → maintainable project code  
+- Learning notebooks → maintainable project code  
 
 ---
 
@@ -52,9 +52,9 @@ My background in building **production systems** (APIs, databases, ERP-style app
 📌 **AI & Robotics Portfolio**  
 A structured portfolio documenting my progression across NLP, ML, and robotics.
 
-- Conceptual depth and trade-offs  
-- Clear explanations alongside implementations  
-- Fewer demos, more understanding  
+- Emphasis on **conceptual depth and trade-offs**
+- Clear explanations alongside implementations
+- Fewer demos, more understanding
 
 ---
 
@@ -82,7 +82,7 @@ A structured portfolio documenting my progression across NLP, ML, and robotics.
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&langs_count=6&theme=github_dark&hide_border=true"
     height="160"
   />
 </p>
@@ -106,7 +106,7 @@ A structured portfolio documenting my progression across NLP, ML, and robotics.
 
 ## 📫 Connect
 
-- GitHub: **[@qasimk2120](https://github.com/qasimk2120)**  
+- GitHub: **[@qasimk2120](https://github.com/qasimk2120)**
 - Portfolio: see pinned repositories  
 
 ---
