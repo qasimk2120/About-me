@@ -5,22 +5,22 @@
 <h1 align="center">Hi, I’m Qasim Khan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer → AI / NLP / Robotics Practitioner</strong><br/>
-  Learning-first systems • Engineering rigor • Applied AI
+  <strong>Software Engineer → AI / NLP / Robotics</strong><br/>
+  Engineering-first mindset • Applied AI • Systems thinking
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **software engineer with a strong full-stack background**, currently deepening my expertise in  
-**Artificial Intelligence, Natural Language Processing, and Robotics** through hands-on experimentation and applied learning.
+I’m a **software engineer with strong full-stack experience**, now specializing in  
+**Artificial Intelligence, Natural Language Processing, and Robotics** through applied, hands-on work.
 
-I’ve built and maintained **real-world systems** — from backend services and databases to ERP-style applications — which strongly shapes how I approach AI:
+My background in building **production systems** (APIs, databases, ERP-style applications) heavily influences how I approach AI:
 
-- I focus on **fundamentals, trade-offs, and system behavior**
+- I focus on **fundamentals, constraints, and system behavior**
 - I avoid treating models as **black boxes**
-- I value **clarity, correctness, and understanding** over hype
+- I care more about **correctness and understanding** than surface-level performance
 
 > I prefer understanding *why* something works before optimizing *how* it works.
 
@@ -29,30 +29,32 @@ I’ve built and maintained **real-world systems** — from backend services and
 ## 🔬 Current Focus
 
 ### 🧩 Natural Language Processing
-- Text preprocessing & representation  
+- Text preprocessing & feature representation  
 - POS tagging & Named Entity Recognition  
 - Sentiment analysis (rule-based, classical ML, transformers)  
 - Topic modeling (LDA, LSA)  
-- Custom text classifiers on real datasets  
+- Building custom text classifiers on real datasets  
 
 ### 🤖 AI & Robotics Foundations
 - Computer vision fundamentals  
-- Robotics software concepts (ROS-ready learning path)  
-- AI engineering practices bridging theory → systems  
+- Robotics software concepts (ROS-oriented learning path)  
+- Bridging AI theory → deployable systems  
 
-### 🛠 Engineering Mindset
-- Clean data pipelines  
-- Reproducible experiments  
-- Learning notebooks → project-grade implementations  
+### 🛠 Engineering Practices
+- Clean, testable data pipelines  
+- Reproducible experiments & notebooks  
+- Translating experiments into maintainable code  
 
 ---
 
 ## 📂 Featured Work
 
 📌 **AI & Robotics Portfolio**  
-A structured, learning-first repository documenting my journey across NLP, ML, and robotics.
+A structured, learning-first repository documenting my progression across NLP, ML, and robotics.
 
-> Focused on **conceptual depth and trade-offs**, not demo-only projects.
+- Emphasis on **conceptual depth and trade-offs**
+- Clear explanations alongside implementations
+- Fewer demos, more understanding
 
 ---
 
@@ -72,7 +74,7 @@ A structured, learning-first repository documenting my journey across NLP, ML, a
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
@@ -85,11 +87,11 @@ A structured, learning-first repository documenting my journey across NLP, ML, a
 
 ---
 
-## 🎯 Philosophy
+## 🎯 Engineering Philosophy
 
 - Engineering first, models second  
 - Depth over buzzwords  
-- Learning > shortcuts  
+- Understanding before optimization  
 - Systems thinking applied to AI  
 
 ---
