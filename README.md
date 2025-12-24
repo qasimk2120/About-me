@@ -13,14 +13,14 @@
 
 ## 🧠 About Me
 
-I’m a **software engineer with strong full-stack experience**, now specializing in  
+I’m a **software engineer with strong full-stack experience**, currently specializing in  
 **Artificial Intelligence, Natural Language Processing, and Robotics** through applied, hands-on work.
 
-My background in building **production systems** (APIs, databases, ERP-style applications) heavily influences how I approach AI:
+My background in building **production systems** (APIs, databases, ERP-style applications) strongly influences how I approach AI:
 
-- I focus on **fundamentals, constraints, and system behavior**
-- I avoid treating models as **black boxes**
-- I care more about **correctness and understanding** than surface-level performance
+- Focus on fundamentals, constraints, and system behavior  
+- Avoid treating models as black boxes  
+- Prioritize correctness and understanding over hype  
 
 > I prefer understanding *why* something works before optimizing *how* it works.
 
@@ -29,32 +29,32 @@ My background in building **production systems** (APIs, databases, ERP-style app
 ## 🔬 Current Focus
 
 ### 🧩 Natural Language Processing
-- Text preprocessing & feature representation  
+- Text preprocessing & representation  
 - POS tagging & Named Entity Recognition  
 - Sentiment analysis (rule-based, classical ML, transformers)  
 - Topic modeling (LDA, LSA)  
-- Building custom text classifiers on real datasets  
+- Custom text classifiers on real datasets  
 
 ### 🤖 AI & Robotics Foundations
 - Computer vision fundamentals  
 - Robotics software concepts (ROS-oriented learning path)  
-- Bridging AI theory → deployable systems  
+- Bridging theory → deployable systems  
 
 ### 🛠 Engineering Practices
 - Clean, testable data pipelines  
-- Reproducible experiments & notebooks  
-- Translating experiments into maintainable code  
+- Reproducible experiments  
+- Notebooks → maintainable project code  
 
 ---
 
 ## 📂 Featured Work
 
 📌 **AI & Robotics Portfolio**  
-A structured, learning-first repository documenting my progression across NLP, ML, and robotics.
+A structured portfolio documenting my progression across NLP, ML, and robotics.
 
-- Emphasis on **conceptual depth and trade-offs**
-- Clear explanations alongside implementations
-- Fewer demos, more understanding
+- Conceptual depth and trade-offs  
+- Clear explanations alongside implementations  
+- Fewer demos, more understanding  
 
 ---
 
@@ -77,12 +77,20 @@ A structured, learning-first repository documenting my progression across NLP, M
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=qasimk2120&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=qasimk2120&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
