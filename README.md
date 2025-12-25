@@ -1,59 +1,112 @@
+<!-- ===================== -->
+<!--  Minimal Dark Profile -->
+<!-- ===================== -->
+
 <h1 align="center">Hi, I’m Qasim Khan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer → AI / NLP / Robotics</strong><br/>
-  Engineering-first mindset • Applied AI • Systems thinking
+  Backend Engineer • AI & Computer Vision • Systems Thinker
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-spaCy-05998b?style=for-the-badge" />
+  <a href="https://github.com/qasimk2120">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I’m a **software engineer with strong full-stack experience**, currently specializing in  
-**Artificial Intelligence, Natural Language Processing, and Robotics**.
+I’m a **backend-focused software engineer** with strong experience in **Node.js, PostgreSQL, and Angular**, currently building **real-world ERP systems** and expanding into **AI engineering and computer vision**.
 
-- **Engineering First:** I prioritize correctness, maintainability, and understanding over hype.
-- **First Principles:** I prefer understanding *why* something works before optimizing *how* it works.
-- **Production Mindset:** Experience in APIs, ERP systems, and SQL databases.
+I care about:
+- clean architecture  
+- scalable database design  
+- real production constraints  
+- systems that don’t break when requirements change  
 
----
-
-## 🔬 Current Focus
-
-### 🧩 Natural Language Processing
-- **Text Representation:** Preprocessing, POS tagging, and NER.
-- **Modeling:** Sentiment analysis (Rule-based to Transformers) and Topic Modeling (LDA/LSA).
-
-### 🤖 AI & Robotics Foundations
-- **Computer Vision:** Image processing fundamentals for spatial awareness.
-- **Systems:** Exploring the ROS (Robot Operating System) ecosystem.
+I prefer **practical engineering over buzzwords**.
 
 ---
 
-## 📊 GitHub Ecosystem
+## 🧠 Current Focus
+
+- 🚛 **Transport / Trucking ERP**  
+  Modular, role-based system with PostgreSQL, Node.js (Express), Angular & PrimeNG  
+  Emphasis on normalization, RBAC, auditability, and long-term scalability
+
+- 🤖 **AI & ML Track**
+  - AI Engineer Core Track  
+  - OpenCV (Computer Vision)  
+  - ROS 2 (Robotics fundamentals)
+
+- 🧩 **System Design**
+  - RESTful APIs
+  - Multi-tenant architecture
+  - Migration-first database workflows
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Node.js (Express)
+- PostgreSQL / SQL
+- Sequelize ORM
+- JWT, RBAC, Validation, Logging
+
+**Frontend**
+- Angular (Standalone Components)
+- PrimeNG
+- Reactive Forms
+- RTL / i18n support
+
+**AI / ML**
+- Python
+- OpenCV
+- NumPy, Pandas
+- Hugging Face (learning)
+
+**Dev & Infra**
+- Git & GitHub
+- Linux
+- VPS (Contabo)
+- REST API Design
+
+---
+
+## 📌 Engineering Principles I Follow
+
+- Database first, UI second  
+- Migrations > magic  
+- Explicit contracts between frontend & backend  
+- Normalize early, denormalize only when needed  
+- Readability beats cleverness  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=transparent&title_color=61dafb&text_color=ffffff&icon_color=61dafb&count_private=true" alt="Qasim's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=transparent&title_color=61dafb&text_color=ffffff" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qasimk2120&theme=dark&background=00000000&ring=61dafb&fire=61dafb" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-- **GitHub:** [@qasimk2120](https://github.com/qasimk2120)  
-- **Portfolio:** See pinned repositories for deep-dives.
+If something here aligns with what you’re building or thinking about:
 
-<p align="right">
-  <em>Building AI systems that are understandable, reliable, and useful.</em>
+- GitHub Issues / Discussions  
+- LinkedIn  
+- Collaboration on real systems  
+
+---
+
+<p align="center">
+  <i>Building boring systems that work is harder — and more valuable.</i>
 </p>
