@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=qasimk2120&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <a href="https://github.com/qasimk2120">GitHub</a> ·
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="www.linkedin.com/in/qasimkhan566">LinkedIn</a>
 
 </div>
 
