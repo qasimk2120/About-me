@@ -1,144 +1,87 @@
-<!-- ========================= -->
-<!--  Qasim Khan — README.md   -->
-<!-- ========================= -->
+<div align="center" width="50">
 
-<h1 align="center">Qasim Khan</h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<p align="center">
-  Backend Engineer • Systems Design • AI & Computer Vision
-</p>
+<details>
+<p><strong> <summary> Busy building systems & debugging reality </summary> </strong></p>
 
-<p align="center">
-  <a href="https://github.com/qasimk2120">GitHub</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+<i>Mostly coding backend logic, fixing migrations, and breaking things so they don’t break later.</i>
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=qasimk2120&style=flat&color=orange&label=PROFILE+VIEWS)
+
+<a href="https://github.com/qasimk2120">GitHub</a> ·
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
+</div>
+
+<hr/>
+
+## 👋 Hi, I’m Qasim Khan
+
+Backend-focused software engineer.  
+I build **production systems**, not demos.
+
+I care about:
+- clean backend architecture  
+- database correctness  
+- systems that survive requirement changes  
+- boring software that *actually works*  
 
 ---
 
-## Overview
-
-I’m a **backend-focused software engineer** who builds **production-grade systems**, not demos.
-
-My work sits at the intersection of:
-- backend engineering
-- database architecture
-- system design under real constraints
-- applied AI (not hype)
-
-I care about **correctness, scalability, and long-term maintainability**.
-
----
-
-## What I’m Working On
+## 🚧 What I’m Working On
 
 ### 🚛 Transport / Trucking ERP
-A real-world, modular ERP system designed for operational use.
+A real-world ERP built under actual operational constraints.
 
-**Highlights**
 - Node.js (Express) + PostgreSQL
 - Migration-first schema design
 - Strict normalization (3NF+)
 - Role-based access control (RBAC)
 - Modular backend services
 - Angular + PrimeNG frontend
-- Audit-friendly, evolution-safe architecture
+- Audit-friendly and evolution-safe
 
-Focus: systems that survive **changing requirements**, not just MVPs.
+This is not a toy project.
 
 ---
 
-### 🤖 AI & Robotics Track
-Actively transitioning into applied AI engineering.
+### 🤖 AI & Engineering Track
+Expanding into applied AI with engineering discipline.
 
+- Python for AI & data workflows
 - Computer Vision with OpenCV
-- Python for ML pipelines
-- Hugging Face ecosystem (in progress)
+- NumPy, Pandas
+- Hugging Face ecosystem (learning)
 - ROS 2 fundamentals (robotics groundwork)
 
-Goal: **engineered AI systems**, not notebook-only experiments.
+Focus: **engineered AI systems**, not notebooks-only experiments.
 
 ---
 
-### 🧩 System Design & Architecture
-Ongoing focus areas:
-- RESTful API contracts
-- Multi-tenant system design
-- Backend–frontend boundary discipline
-- Database migrations as first-class citizens
-- Clean separation of concerns
+## 🚀 Tools & Technologies I Use
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Tech Stack
+```ts
+// how I think about tools
 
-### Backend
-- Node.js (Express)
-- PostgreSQL / SQL
-- Sequelize ORM
-- JWT authentication
-- RBAC
-- Validation & error handling
-- Structured logging
-
-### Frontend
-- Angular (standalone components)
-- PrimeNG
-- Reactive Forms
-- RTL & i18n support
-
-### AI / Data
-- Python
-- OpenCV
-- NumPy, Pandas
-- Hugging Face (learning phase)
-
-### Dev & Infra
-- Git / GitHub
-- Linux
-- VPS deployment (Contabo)
-- REST API design
-
----
-
-## Engineering Principles
-
-I build systems with these rules:
-
-- Database first, UI second
-- Migrations over magic
-- Explicit contracts > implicit assumptions
-- Normalize early, denormalize only with evidence
-- Readability beats cleverness
-- “Works in production” is the only metric that matters
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasimk2120&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasimk2120&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Contact & Collaboration
-
-If you’re building:
-- real backend systems
-- ERP / business software
-- infrastructure-heavy products
-- applied AI systems
-
-Feel free to reach out via:
-- GitHub Issues / Discussions
-- LinkedIn
-
----
-
-<p align="center">
-  <i>Simple systems are hard. Reliable systems are harder.</i>
-</p>
+class Engineer extends Systems {
+  principles = {
+    backendFirst: true,
+    databaseDiscipline: true,
+    migrationsOverMagic: true,
+    explicitContracts: true,
+    readabilityOverCleverness: true
+  };
+}
