@@ -25,7 +25,7 @@ My work focuses on:
 - backend architecture
 - database-heavy systems
 - ERP software under real constraints
-- applied AI & computer vision
+- applied robotics & computer vision
 
 I care about **correctness, scalability, and systems that don’t collapse when requirements change**.
 
@@ -33,31 +33,25 @@ I care about **correctness, scalability, and systems that don’t collapse when 
 
 ## 🚧 What I’m Working On
 
-### 🚛 Transport / Trucking ERP
-A real-world ERP built for actual operations.
+## Current Product
 
-- Node.js (Express) + PostgreSQL  
-- Migration-first database design  
-- Strict normalization (3NF+)  
-- Role-based access control (RBAC)  
-- Modular backend services  
-- Angular + PrimeNG frontend  
-- Audit-friendly and evolution-safe  
+### [CogniFocus](https://cognifocus.app/)
+A character-driven focus system with distraction-aware sessions, reactive companions, Focus Shield, customizable timers, and progress tracking.
 
-This is not a toy project.
+Live site: https://cognifocus.app/
 
 ---
 
-### 🤖 AI & Engineering Track
-Moving into applied AI with engineering discipline.
+### 🤖 Robotics Track
+Moving into applied Robotics with engineering discipline.
 
-- Python for AI pipelines  
+- Python for robotics pipelines  
 - Computer Vision with OpenCV  
 - NumPy, Pandas  
 - Hugging Face ecosystem (learning)  
 - ROS 2 fundamentals  
 
-Goal: **engineered AI systems**, not notebook-only experiments.
+Goal: **engineered robotic systems**, not notebook-only experiments.
 
 ---
 
